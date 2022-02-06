@@ -1,0 +1,12 @@
+{
+  "VALIDATOR_STRING_FIRST_NAME": "First name must be a string",
+  "VALIDATOR_STRING_LAST_NAME": "Last name must be a string",
+  "VALIDATOR_STRING_NUMID": "ID must be a string",
+  "VALIDATOR_STRING_EMAIL": "Email must be a string",
+  "VALIDATOR_STRING_PHONE": "Phone must be a string",
+  "VALIDATOR_STRING_ADDRESS": "Address must be a string",
+  "VALIDATOR_STRING_PASSWORD": "Password must be a string",
+  "VALIDATOR_STRING_BIRTHDATE": "Birthdate must be a string",
+  "USER_SUCCESS_DELETE": "User was deleted successfully",
+  "ROLE_NOT_FOUND": "Role not found"
+}

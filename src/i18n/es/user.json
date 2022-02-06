@@ -1,0 +1,12 @@
+{
+  "VALIDATOR_STRING_FIRST_NAME": "El nombre debe ser texto",
+  "VALIDATOR_STRING_LAST_NAME": "Los apellidos deben ser texto",
+  "VALIDATOR_STRING_NUMID": "La cédula debe ser texto",
+  "VALIDATOR_STRING_EMAIL": "El correo debe ser texto",
+  "VALIDATOR_STRING_PHONE": "El número de contacto debe ser texto",
+  "VALIDATOR_STRING_ADDRESS": "La dirección debe ser texto",
+  "VALIDATOR_STRING_PASSWORD": "La contraseña debe ser texto",
+  "VALIDATOR_STRING_BIRTHDATE": "La fecha de cumpleaños debe ser texto",
+  "USER_SUCCESS_DELETE": "El usuario ha sido borrado con éxito",
+  "ROLE_NOT_FOUND": "El Rol no existe"
+}
